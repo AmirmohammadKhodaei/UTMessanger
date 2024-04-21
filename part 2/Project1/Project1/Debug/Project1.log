@@ -1,0 +1,17 @@
+﻿  Source.c
+  functions.c
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(30): warning C4018: '<': signed/unsigned mismatch
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(45): warning C4018: '<': signed/unsigned mismatch
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(57): warning C4018: '<': signed/unsigned mismatch
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(200): warning C4047: '==': 'user *' differs in levels of indirection from 'int'
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(211): warning C4047: 'return': 'user *' differs in levels of indirection from 'int'
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(235): warning C4047: '==': 'user *' differs in levels of indirection from 'int'
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(311): warning C4552: '-': operator has no effect; expected operator with side-effect
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(361): warning C4552: '-': operator has no effect; expected operator with side-effect
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(440): warning C4552: '-': operator has no effect; expected operator with side-effect
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(542): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+  Generating Code...
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(407): warning C4715: 'editUsername': not all control paths return a value
+d:\javad\university\first term\computer\projects\project 3\part 2\project1\project1\functions.c(428): warning C4715: 'editPassword': not all control paths return a value
+  Project1.vcxproj -> D:\Javad\University\First Term\Computer\Projects\Project 3\part 2\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Javad\University\First Term\Computer\Projects\Project 3\part 2\Project1\Debug\Project1.pdb (Partial PDB)
